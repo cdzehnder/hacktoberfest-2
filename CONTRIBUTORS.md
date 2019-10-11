@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Christyn Zehnder](https://github.com/cdzehnder)
+- Place: Washington, D.C.
+- Bio: Marketing and communications
+- Github: [cdzehnder](https://github.com/cdzehnder)
